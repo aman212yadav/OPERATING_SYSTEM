@@ -1,4 +1,3 @@
-//Implementation fo SHORTEST JOB FIRST Using C++
 
 #include <iostream>
 #include <algorithm>
